@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalculatorTest</string>
+    <string name="appTitle">简洁版计算器</string>
+    <string name="initValue">0.0</string>
+    <string name="valueOfBtnOne">1</string>
+    <string name="valueOfBtnTwo">2</string>
+    <string name="valueOfThree">3</string>
+    <string name="valueOfFour">4</string>
+    <string name="valueOfFive">5</string>
+    <string name="valueOfSix">6</string>
+    <string name="valueOfSeven">7</string>
+    <string name="valueOfEight">8</string>
+    <string name="valueOfNine">9</string>
+    <string name="valueOfZero">0</string>
+    <string name="clearDesc">clear</string>
+    <string name="backspaceDesc">backspace</string>
+    <string name="extensionDesc">extension</string>
+</resources>
