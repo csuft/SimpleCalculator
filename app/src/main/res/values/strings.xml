@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">CalculatorTest</string>
     <string name="appTitle">简洁版计算器</string>
-    <string name="initValue">0.0</string>
+    <string name="initValue">0</string>
     <string name="valueOfBtnOne">1</string>
     <string name="valueOfBtnTwo">2</string>
     <string name="valueOfThree">3</string>
