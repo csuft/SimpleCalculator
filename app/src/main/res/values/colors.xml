@@ -7,5 +7,5 @@
     <color name="colorBtnText">#6b6b6b</color>
     <color name="colorTitleBackground">#303F9F</color>
     <color name="transparent">@android:color/transparent</color>
-    <color name="btn_pressed">#f5f5f5</color>
+    <color name="btn_pressed">#cecece</color>
 </resources>

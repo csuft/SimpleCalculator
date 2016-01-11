@@ -29,15 +29,18 @@
         android:layout_height="wrap_content"
         android:background="@color/colorTitleBackground">
 
-        <TextView
+        <EditText
             android:id="@+id/amount_number"
             android:layout_width="match_parent"
             android:layout_height="115dp"
             android:background="@color/transparent"
             android:gravity="end|center_vertical"
-            android:paddingLeft="20dp"
-            android:paddingRight="20dp"
-            android:textSize="64sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="60sp"
+            android:singleLine="true"
+            android:maxLength="10"
+            android:cursorVisible="false"
             android:textColor="@color/colorBtnBackground"/>
 
     </LinearLayout>
